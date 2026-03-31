@@ -67,7 +67,6 @@ Raw ClinVar data is curated into a reliable training dataset.
 - `alt` – Alternate allele  
 
 #### 🔹 Unique Identifier
-```text
 variant_id = chrom_pos_ref_alt
 🌍 3. gnomAD Processing
 
