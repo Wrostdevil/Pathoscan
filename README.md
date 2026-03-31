@@ -127,3 +127,20 @@ Feature contribution per prediction
 Positive/negative impact visualization
 Ranked feature importance
 🖥️ Application Screens
+## 📊 Dashboard
+
+<p align="center">
+  <img src="ui.png" width="900"/>
+</p>
+
+## 📈 SHAP Explanation
+
+<p align="center">
+  <img src="shap.png" width="900"/>
+</p>
+
+## 🧾 Output
+
+<p align="center">
+  <img src="opt.png" width="900"/>
+</p>
