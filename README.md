@@ -3,6 +3,10 @@
 > AI-powered system for **pathogenicity prediction of genomic variants** using XGBoost, SHAP explainability, and Gemini-based clinical insights.
 
 ---
+## 🚀 Live Demo
+
+👉 **Frontend:** https://pathoscan-zeta.vercel.app/  
+👉 **Backend API:** https://pathoscan-backend.onrender.com/docs
 
 ## 🚀 Overview
 
