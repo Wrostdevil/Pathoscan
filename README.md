@@ -127,3 +127,53 @@ Feature contribution per prediction
 Positive/negative impact visualization
 Ranked feature importance
 🖥️ Application Screens
+## 📊 Dashboard
+
+<p align="center">
+  <img src="ui.png" width="900"/>
+</p>
+
+## 📈 SHAP Explanation
+
+<p align="center">
+  <img src="opt.png" width="900"/>
+</p>
+
+## 🧾 Output
+
+<p align="center">
+  <img src="shap.png" width="900"/>
+</p>
+⚙️ Tech Stack
+🔹 Backend
+FastAPI
+XGBoost
+SHAP
+Gemini API
+🔹 Frontend
+HTML / CSS / JavaScript
+Interactive UI
+🔹 Deployment
+Backend → Render
+Frontend → Vercel
+🚀 Installation (Local)
+git clone https://github.com/Wrostdevil/Pathoscan
+cd project/backend
+
+pip install -r requirements.txt
+uvicorn app:app --reload
+🌐 API Endpoint
+POST /predict
+Example Input:
+{
+  "chrom": "1",
+  "pos": 123456,
+  "ref": "A",
+  "alt": "G",
+  "gnomad_af": 0.001
+}
+🧠 Future Improvements
+🔐 Authentication system
+📊 Real-time SHAP visualization
+🧬 Multi-variant analysis
+☁️ Scalable cloud inference
