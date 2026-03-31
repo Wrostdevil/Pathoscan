@@ -1,0 +1,10 @@
+chrom
+pos
+ref
+alt
+gnomad_af
+GERP_91_mammals_rankscore
+phyloP100way_vertebrate_rankscore
+phyloP470way_mammalian_rankscore
+phastCons470way_mammalian_rankscore
+phastCons17way_primate_rankscore
